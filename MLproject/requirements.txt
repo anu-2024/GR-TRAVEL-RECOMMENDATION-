@@ -1,8 +1,9 @@
-
-flask
+streamlit==1.29.0
 pandas
-streamlit
+numpy
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
 joblib
+flask
+altair==4.2.2
