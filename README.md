@@ -13,7 +13,7 @@ This project helps users make sustainable travel decisions by comparing emission
 * 📏 Calculates **distance between locations**
 * 🚗 Compares multiple transportation modes:
 
-  * Bike
+
   * Car
   * Bus
   * Train
@@ -259,8 +259,7 @@ http://127.0.0.1:5000/
 
 ## 👨‍💻 Author
 
-**Lohith.S**
-
-
 **Anu.A**
+
+**Lohith.S**
 
