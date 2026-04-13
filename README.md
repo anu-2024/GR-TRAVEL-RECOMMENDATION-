@@ -36,3 +36,7 @@ jupyter notebook notebooks/GreenRoute_ML.ipynb
 ## Run Web App
 
 streamlit run app/streamlit_app.py
+
+
+
+deployed link:  https://exd5h3xk8bbeayvwrzyogl.streamlit.app/
